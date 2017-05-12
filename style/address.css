@@ -1,6 +1,4 @@
 .address {
-    min-height: 300px;
-    width: 400px;
     border: 1px solid white;
     background-size: cover;
     margin-top: 60px;
@@ -15,6 +13,7 @@
 }
 
 .address__text-underhead {
+    width: 400px;
     margin-top: 30px;
     font-size: 21px;
     line-height: 1.5;
