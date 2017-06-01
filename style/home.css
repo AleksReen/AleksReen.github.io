@@ -5,6 +5,7 @@
 
 .home__conteiner {
     display: flex;
+    justify-content: center;
     align-items: center;
     min-height: 615px;
     background-attachment: fixed;
